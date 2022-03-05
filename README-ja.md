@@ -1,5 +1,5 @@
 # Unity-LogTranslation
-unityのコンソールログを翻訳するエディタ拡張  
+unityのログを自動翻訳するエディタ拡張
 (Editor extensions to translate unity console logs)
 
 ## 利用手順
