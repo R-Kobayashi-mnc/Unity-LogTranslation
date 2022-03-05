@@ -11,7 +11,7 @@ https://www.deepl.com/ja/pro/change-plan#developer
 ## ④上部のタブに追加された「LogTranslation/Setting」をクリック
 ![image](https://user-images.githubusercontent.com/84212805/156880496-e75344c9-4050-48fe-a328-af67e4ba91ad.png)
 
-## ⑤ ③で取得した「認証キー」の入力と「翻訳先言語」を選択し、「決定」を押下する
+## ⑤ ③で取得した「認証キー」の入力と「翻訳先言語」を選択し、「決定」を押下
 ![image](https://user-images.githubusercontent.com/84212805/156880684-c6c5b3ac-20ba-4522-a423-664f58ff560c.png)
 
 (設定の保存ファイルは、対象のプロジェクトフォルダ配下の「LogTranslationSettingSave/SettingValue.dat」に作成される)
