@@ -19,3 +19,4 @@ https://www.deepl.com/ja/pro/change-plan#developer
 ## ⑥ Unityの再起動
 
 ## ⑦ ログに翻訳結果が出力されるようになる (通常のコメントログは対象外)
+![image](https://user-images.githubusercontent.com/84212805/156881009-d82feae9-86e3-4bd0-92c4-90b46bcd1793.png)
