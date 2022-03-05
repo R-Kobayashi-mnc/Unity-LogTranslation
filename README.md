@@ -1,23 +1,23 @@
 # Unity-LogTranslation
-unityのコンソールログを翻訳するエディタ拡張  ( Editor extensions to translate unity console logs )
+Editor extensions to translate unity console logs  
+(unityのコンソールログを翻訳するエディタ拡張)
 
-## 利用手順
+## Usage Procedure
 
-## ①「LogTranslation」ファイルをダウンロード
-## ② 利用したいUnityプロジェクトのAssetsフォルダ配下に配置
-## ③ Deepl API で登録を行い、「認証キー」を取得
-https://www.deepl.com/ja/pro/change-plan#developer
+## ① Download the "LogTranslation" file
+## ② Place under the Assets folder of the Unity project you wish to use
+## ③ Register with the Deepl API and obtain an "authentication key
+https://www.deepl.com/en/pro/change-plan#developer
 
-## ④上部のタブに追加された「LogTranslation/Setting」をクリック
+## ④ Click on "LogTranslation/Setting" added to the tabs at the top
 ![image](https://user-images.githubusercontent.com/84212805/156880496-e75344c9-4050-48fe-a328-af67e4ba91ad.png)
 
-## ⑤ ③で取得した「認証キー」の入力と「翻訳先言語」を選択し、「決定」を押下する
+## ⑤ Enter the "Authentication Key" obtained in step ③ and select the "Translate to language", then press "select"
 ![image](https://user-images.githubusercontent.com/84212805/156880684-c6c5b3ac-20ba-4522-a423-664f58ff560c.png)
 
-(設定の保存ファイルは、対象のプロジェクトフォルダ配下の「LogTranslationSettingSave/SettingValue.dat」に作成される)
+(The settings save file is created in "LogTranslationSettingSave/SettingValue.dat" under the target project folder)
 
-## ⑥ Unityの再起動
+## ⑥ Restart Unity
 
-## ⑦ ログに翻訳結果が出力されるようになる (通常のコメントログは対象外)
+## ⑦ Translation results are output to the log (Normal comment logs are not covered)
 ![image](https://user-images.githubusercontent.com/84212805/156881009-d82feae9-86e3-4bd0-92c4-90b46bcd1793.png)
-
